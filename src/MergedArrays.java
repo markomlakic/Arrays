@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 public class MergedArrays {
 
+
     public static void main(String[] args) {
 
         int[] arr1 = {1, 2, 3, 4};
@@ -20,4 +21,5 @@ public class MergedArrays {
         }
         System.out.println(Arrays.toString(arr3));
     }
+
 }
