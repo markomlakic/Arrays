@@ -4,8 +4,6 @@ public class MergedArrays {
 
     public static void main(String[] args) {
 
-        //Ex:arr1 = {1,2,3,4} arr2 = {5,6,7,8} output arr3 = {1,2,3,4,5,6,7,8}
-
         int[] arr1 = {1, 2, 3, 4};
         int[] arr2 = {5, 6, 7, 8};
 
@@ -21,7 +19,6 @@ public class MergedArrays {
 
         }
         System.out.println(Arrays.toString(arr3));
-
     }
 }
 /*
